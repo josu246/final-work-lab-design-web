@@ -530,13 +530,13 @@ figcaption a {
         width: 150px;
         height: 40px;
         position: relative;
-        top: -210px;
-        left: -80px;
+        top: -280px;
+        left: -90px;
         margin: 10px auto;
     }
 
     .d-flex {
-        width: 300px;
+        width: 900px;
         height: 20px;
         align-items: center;
         background-color: #176F75
